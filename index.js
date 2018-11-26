@@ -17,7 +17,7 @@ while (i < facts.length) {
   truths.push(facts[i] + "!!!");
   i++;
 }
-  return truths
+  return facts
 }
 
 function iLoveTheBeatles(n) {
